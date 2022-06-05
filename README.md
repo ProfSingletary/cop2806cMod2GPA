@@ -15,7 +15,7 @@ On the New Project/Spring Initializr Project Settings page, use the following se
 
 - name the project group which will be used to create your Java package. 
 	- The naming convention for the group name in this course uses a 
-	- reversed domain name, which is a standard convention for naming packages:
+	  reversed domain name, which is a standard convention for naming packages:
 
              edu.fscj.cop2806c
 		
